@@ -10,7 +10,7 @@ bibliography: master.bib
 header-includes:
   -  \usepackage{hyperref}
 biblio-style: apsr
-title: "Gestión de riesgo de liquidez de la Banca peruana en tiempo del COVID-19"
+title: "Gestión de riesgo de liquidez de la Banca peruana: Un modelo VaR Paramétrico de Calibración Indirecta"
 thanks: "Replication files are available on the author's Github account (http://github.com/svmiller). **Current version**: `r format(Sys.time(), '%B %d, %Y')`; **Corresponding author**: svmille@clemson.edu."
 author:
 - name: Jhon Figueroa 
